@@ -1,0 +1,199 @@
+/* bootstrap edit */
+.navbar-default {
+    background: none;
+    border: none;
+}
+.navbar{
+    margin-top: 20px;
+}
+.navbar-default .navbar-brand{
+    color: #0a4b80;
+}
+.navbar-default .navbar-nav>li>a{
+    color: #016a98;
+}
+
+/*header section*/
+header{
+   
+    background: url(img/13775928_1293935610650985_4976174168861934106_n.jpg)center center fixed no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.header{
+    background: rgba(12, 22, 76, 0.61);
+    width: 40%; 
+    height: 100%;
+}
+.inner{
+    padding-top: 50%;
+    padding-left: 18%;
+    color: white;
+    
+}
+.inner h1{
+    font-size: 40px;
+    font-weight: 900;
+}
+.inner p{
+    font-size: 20px;
+    font-weight: 100;
+}
+.background{
+     height: 800px;
+     background: rgba(0,0,0,0.2);  
+}
+
+
+/* PRACTICE AREAS */
+.padd{
+    padding-top: 35px;
+}
+.bakgr{
+    background: rgba(231, 255, 254, 0.61);
+    height: 300px;
+}
+.color li{
+    color: rgba(0, 103, 150, 0.78);
+    font-size: 20px;
+}
+.color p{
+    color: rgba(21, 183, 204, 0.87);
+}
+.color ul{
+    list-style-type: square;
+}
+.font-practice-1{
+    font-weight: 900;
+    color: #0a4b80; 
+    font-size: 70px;
+}
+.font-practice-2{
+     font-weight: 100;
+    color: #0a4b80;
+    font-size: 70px;
+}
+
+/* vision section */
+#our-vision{
+    padding: 40px 90px;
+    background: #0a4b80;
+    color: white;
+    font-size: 18px;
+}
+#our-vision h2{
+    padding-bottom: 8px;
+}
+
+/*picture section*/
+.pic{
+    height: 500px;
+    background: url(img/googel.jpg)center center fixed no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+/*attorneys section */
+#attorneys h6{
+    font-size: 16px;
+}
+#attorneys{
+    padding: 50px 0px;
+}
+.spec{
+    color: deepskyblue;
+}
+
+/* contact section */
+#contact{
+    height: 500px;
+    background: url(img/contact.jpg)center center fixed no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.background-contact{
+     background: rgba(12, 22, 76, 0.96);
+     height:500px;
+
+}
+
+.spec-contact{
+    padding: 80px 40px;
+    background: rgba(12, 22, 76, 0.7);
+    height:500px; 
+    color: white;
+    font-size: 60px;
+    font-style: italic;
+    
+
+}
+.title{
+    color: white;
+    padding-bottom: 10px;
+}
+.cont ul li{
+    color: antiquewhite;
+    font-size: 14px;
+}
+.cont a:hover{
+    text-decoration: none;
+}
+.link{
+    font-size: 30px;
+    padding: 10px;
+}
+.cont{
+    padding:40px 30px;
+}
+.cont p{
+    padding: 7px 0px;
+    font-size: 18px;
+    color: white;
+}
+.btn-default{
+    margin-top: 10px;
+}
+
+
+/* back-to-top */
+.back-to-top{
+    padding: 50px 0px;
+    background: rgba(12, 22, 76, 0.96);
+}
+.back-to-top a{
+    font-size: 30px;
+    color: white;
+}
+.back-to-top a:hover{
+    text-decoration: none;
+    color:skyblue;
+}
+.back-to-top span{
+    display: block;
+
+}
+
+/*footer section */
+.footer{
+    padding: 20px 0px;
+}
+.fa-linkedin{
+    color: white;
+}
+.linked-in{
+    background: deepskyblue;
+}
+.fa-twitter{
+    color: white;
+}
+.twitter{
+      background: deepskyblue;
+}
+.fa-google-plus{
+    color: red;
+}
+.googel{
+    background-color: white;
+}
+.uppercase{
+    text-transform: uppercase
+}
